@@ -1,0 +1,1 @@
+cat templates/top.html content/contact.html templates/bottom.html > fullcontactpage.html
